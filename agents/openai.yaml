@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean4 Conjecture Prover"
+  short_description: "Adaptive conjecture search and Lean 4 proof audit"
+  default_prompt: "Use $lean4-conjecture-prover to prove or disprove this statement, audit the result, and verify it in Lean 4 when feasible."
